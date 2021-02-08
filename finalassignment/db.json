@@ -1,0 +1,48 @@
+{
+  "Student": [
+    {
+      "id": "2k5",
+      "Name": "BH",
+      "Category": "International",
+      "Domicile": true,
+      "Birth_certificate": true,
+      "Marksheets": true,
+      "Police_clearance": true,
+      "Passport": true,
+      "Declaration": true,
+      "DOB": "",
+      "Father_Name": "",
+      "Mother_Name": "",
+      "Marks": "100",
+      "NameError": "",
+      "DomicileError": "",
+      "Birth_certificateError": "",
+      "MarksheetsError": "",
+      "Police_clearanceError": "",
+      "PassportError": "",
+      "DeclarationError": ""
+    },
+    {
+      "id": "9",
+      "Name": "abhishek",
+      "Category": "Domestic",
+      "Domicile": true,
+      "Birth_certificate": true,
+      "Marksheets": true,
+      "Police_clearance": true,
+      "Passport": true,
+      "Declaration": true,
+      "DOB": "",
+      "Father_Name": "xyx",
+      "Mother_Name": "",
+      "Marks": "100",
+      "NameError": "",
+      "DomicileError": "",
+      "Birth_certificateError": "",
+      "MarksheetsError": "",
+      "Police_clearanceError": "",
+      "PassportError": "",
+      "DeclarationError": ""
+    }
+  ]
+}
